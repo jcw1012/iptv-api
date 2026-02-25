@@ -1,1 +1,35 @@
-2026-02-25 13:17:18,https://iptv.catvod.com/live.php?id=CCTV1&line=17
+# IPv4 Streams
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
+CGTN,http://183.223.157.33:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
+优优宝贝,http://120.76.248.139/live/bfgd/4200000153.m3u8
+兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8
+兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
+兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
+农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
+农林卫视,http://8.138.7.223/【公众号：榴芒电视】/农林卫视.m3u8
+农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
+农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视4K超,http://183.215.134.239:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
+奎屯汉语,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
+新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
+江津新闻,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
+海峡卫视,http://8.138.7.223/tv/hxws.m3u8
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
+环球旅游,http://120.76.248.139/live/bfgd/4200000147.m3u8
+生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
+纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
+纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+西安新闻,http://112.46.105.20:8009/hls/28/index.m3u8
+西安都市,http://112.46.105.20:8009/hls/29/index.m3u8
+车迷频道,http://120.76.248.139/live/bfgd/4200000146.m3u8
+辽宁公共,http://120.76.248.139/live/bfgd/4200000077.m3u8
+辽宁公共,http://120.76.248.139/live/bfgd/4200000481.m3u8
+鄂托克旗电视台,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8?zneimd
+陕西新闻咨询,http://112.46.105.20:8009/hls/18/index.m3u8
+陕西秦腔,http://112.46.105.20:8009/hls/22/index.m3u8
+陕西银龄,http://112.46.105.20:8009/hls/20/index.m3u8

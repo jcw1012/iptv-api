@@ -1,10 +1,13 @@
 🕘️更新时间,#genre#
-2026-02-25 19:45:50,https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=5559462299&sign=5a4d41983c091f12c9e39c5f14a783b74cc6e2b6a2b1416a1c3f004541e67eb6bfc38d4bed0fc826908edec5114d7f4f4b45f61b7d93eed686ef4be1fa540ea8eb3f8bb082208b1ad0854d13e7&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+2026-02-25 20:30:51,https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=5559462299&sign=5a4d41983c091f12c9e39c5f14a783b74cc6e2b6a2b1416a1c3f004541e67eb6bfc38d4bed0fc826908edec5114d7f4f4b45f61b7d93eed686ef4be1fa540ea8eb3f8bb082208b1ad0854d13e7&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 
 📺央视频道,#genre#
 CCTV-1,https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=5559462299&sign=5a4d41983c091f12c9e39c5f14a783b74cc6e2b6a2b1416a1c3f004541e67eb6bfc38d4bed0fc826908edec5114d7f4f4b45f61b7d93eed686ef4be1fa540ea8eb3f8bb082208b1ad0854d13e7&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-3,https://live.ottiptv.cc/mcp/cctv3.m3u8?userid=5559462299&sign=4b99ee60a68ba82dbc4e1d7b9f6e341147ac26b96af746bebefb0463328392d6effc876beaedd981809ec67d3f9425b420fa7ddf8fdce58fd232316502ef1e13a41efa420fd6b141179521d243&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-4,https://live.ottiptv.cc/mcp/cctv4.m3u8?userid=5559462299&sign=92a0e9e21ef7857dd513aeeb3f403218f4a22f511b8cbad472c781b1eeb1845134d2f36918d920338b9320b4d3f2f74eb2b05650fb488c0b904f1dd8777704e863541a8d63e3b76e8e870387fe&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-4,http://php.jdshipin.com:8880/bst2.php?id=cctv4k/15000000
 CCTV-5,https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=5559462299&sign=799ad7b381aaaa487fee8450981408eb70baf1fdf30ab76e786b788ad379a691f038decea12acf185737a7ac253888c8b5e13894e4ed5266cd21137024a5dc54de6567c84d6730cc96ebe9184aba&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-5,https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=5559462299&sign=e9b4a80e160246aa39db40000b8ea23c828e566f7c0650d2176acad6e4707b42593cf80e2d78372d1df1d638d7ee12fffee660802b8830b0a372a2fa21b196b2746cc04e72f3bf670a5e244558&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-6,https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=5559462299&sign=bccf4930293e82ee4457a69cc43ab23e97ab52dc1eecca5803f5b6686abe0a1023a1741c2d7f7cd87d9632436747e3edf17fa04d87a4377ceb50f572233ead400e2feedee4edeabf502328b90e&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -14,31 +17,64 @@ CCTV-9,https://live.ottiptv.cc/mcp/cctv9.m3u8?userid=5559462299&sign=5b535a90df5
 CCTV-10,https://live.ottiptv.cc/mcp/cctv10.m3u8?userid=5559462299&sign=c468b1bf4b71a67b8519eeca3d061ddccbc64977de60b09b411df6c6470c082787691014b0985737fd726170be9c2e2402d55f056194822cdd1b5b12a0d0654098d20e260d044892143385c56f2b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-11,https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=5559462299&sign=e7d539efe0830e87ec8266a4761f182582914d2fb1e19bc1866bc89b1fc439a5c6e70aa54cbf22739435630abd4c168a44881107685bf2863ff455fb1ebf23facf276b2873655c34830279326e61&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-12,https://live.ottiptv.cc/mcp/cctv12.m3u8?userid=5559462299&sign=e6c94e6a8e59261f804dec8de382767bc7e2d7aaeff171e99bc608419ff7bf082f8e99d8cf2c8870e25c923b6007ceeace344f814df57a90325d345841d5ada0c74e2d1bde52d7290e08cbc9a70d&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=5559462299&sign=50ef89ca1ec8dcecfc4e0153074e7b9a6113e36cb760b2b007f076633bb8794c46fa857ac6407c6c50cfe2ab7c5d8c6f87af2793efe13ada9c572878b5fb8c6c168ae504f3743e920d40354876cb&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-14,https://live.ottiptv.cc/mcp/cctv14.m3u8?userid=5559462299&sign=4a9e31581aa67387e13f85b41f51eb7a84cd9eb6630a8dd6850ac9ac7c6e795725e2b05cb91e5e092fdac6a4ca7d9b4eea8e04f4455e40d8dc227940e612705b1b3d5743fbe17e1f61ca218e2302&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-15,https://live.ottiptv.cc/mcp/cctv15.m3u8?userid=5559462299&sign=2843d5aef3ec62add8f4dbbc553c02bd3b9693bb09a507da3b2ebde10b0d12470a818bff3899243707d2f0653a39498739cfa561be1aecde3358a9611ba30cc6fecfc17922a89a5169c92e42c085&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-16,https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=5559462299&sign=b52a2a0826d3b67c3c51652f59a9fa2fa95074ac4adcf97088e9de58e44bbec4d6fb8cfc2d8e18b98edc57b46b41bfb1e62d9969e19daaa18cca800518413c821412fc5b48cc97fb4e60c43cc65a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
 CCTV-17,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=5559462299&sign=e3f48914dbbe99e6d02ce484dbda52788aefe23d2e89987b940ea681404423813f4acd1d24d4034e51ebf9c6a00138374f2696b08d66ccff1de80fc061f1397ce6fed5e45685aaa20e0b7ebf8bdd&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
+西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 
 ☘️广东频道,#genre#
 广东珠江,http://r.jdshipin.com/sE5vO
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东体育,http://r.jdshipin.com/LiYdg
+广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
 广州影视,http://r.jdshipin.com/TcKr2
 广州影视,http://r.jdshipin.com/sFw4S
+深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
 
 ☘️浙江频道,#genre#
+浙江钱江,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+浙江钱江,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
+浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
+浙江生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
+浙江生活,http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
+浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
+浙江经济生活,http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
+浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
+浙江新闻,http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
+浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
+浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
+浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
+浙江国际,http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
+浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
+浙江教科影视,http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
 
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
+动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
+哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
+法治天地,http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424
 
 ☘️重庆频道,#genre#
 
@@ -47,6 +83,9 @@ CCTV-17,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=5559462299&sign=e3f48914d
 ☘️辽宁频道,#genre#
 
 ☘️湖南频道,#genre#
+湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
+湖南电影,http://php.jdshipin.com:8880/iptv.php
+湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
 
 ☘️湖北频道,#genre#
 
@@ -96,14 +135,14 @@ CCTV-17,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=5559462299&sign=e3f48914d
 ☘️云南频道,#genre#
 
 ☘️青海频道,#genre#
+安多卫视,rtmp://liveout.xntv.tv/a65jur/96iln2
+西宁新闻综合,rtmp://liveout.xntv.tv/a65jur/96iln2
 
 ☘️黑龙江频道,#genre#
+齐齐哈尔新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226437
 
 🌊港·澳·台,#genre#
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
-翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
-翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
-翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
@@ -112,31 +151,68 @@ CCTV-17,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=5559462299&sign=e3f48914d
 翡翠台,http://r.jdshipin.com/thuYX
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct406
-翡翠台,http://hls.168.us.kg/u/81/master.m3u8
-翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://r.jdshipin.com/jUx8K
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
+明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://hls.168.us.kg/u/84/master.m3u8
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
+凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来体育,https://hls.iill.top/api/wlty/index.m3u8
 J2,http://r.jdshipin.com/Nr5jq
+J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 东森电影,https://hls.iill.top/api/dsdy/index.m3u8
 
 🎬电影频道,#genre#
 CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
+NewTV惊悚悬疑,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010077
+NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003
 纬来电影,https://hls.iill.top/api/wldy/index.m3u8
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 天映经典,https://o11.163189.xyz/stream/live/ccm/
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 东森电影,https://hls.iill.top/api/dsdy/index.m3u8
 东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
 
@@ -146,18 +222,27 @@ CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f368602447269195
 CCTV-5,https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=5559462299&sign=799ad7b381aaaa487fee8450981408eb70baf1fdf30ab76e786b788ad379a691f038decea12acf185737a7ac253888c8b5e13894e4ed5266cd21137024a5dc54de6567c84d6730cc96ebe9184aba&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-5,https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=5559462299&sign=e9b4a80e160246aa39db40000b8ea23c828e566f7c0650d2176acad6e4707b42593cf80e2d78372d1df1d638d7ee12fffee660802b8830b0a372a2fa21b196b2746cc04e72f3bf670a5e244558&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 广东体育,http://r.jdshipin.com/LiYdg
+广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 纬来体育,https://hls.iill.top/api/wlty/index.m3u8
 五星体育,https://other.ottiptv.cc/wxty.m3u8
+爱体育,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000290630
 
 🪁动画频道,#genre#
+动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
+爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
+炫动卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
 24H国漫热播,https://www.goodiptv.club/yy/1353937086
+浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
+浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 七龙珠,https://live.ottiptv.cc/huya/11601966
 经典动漫,https://www.goodiptv.club/yy/22777075
 经典动漫,https://www.goodiptv.club/yy/24180320
-漫画解说,https://www.goodiptv.club/douyu/5907076
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
+漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
+爱电竞,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000230630
 
 🎵音乐频道,#genre#
 CCTV-15,https://live.ottiptv.cc/mcp/cctv15.m3u8?userid=5559462299&sign=2843d5aef3ec62add8f4dbbc553c02bd3b9693bb09a507da3b2ebde10b0d12470a818bff3899243707d2f0653a39498739cfa561be1aecde3358a9611ba30cc6fecfc17922a89a5169c92e42c085&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -193,9 +278,7 @@ CETV-4,url
 电视指南,url
 世界地理,url
 兵器科技,url
-广东卫视,url
 香港卫视,url
-浙江卫视,url
 湖南卫视,url
 北京卫视,url
 湖北卫视,url
@@ -220,35 +303,25 @@ CETV-4,url
 山西卫视,url
 陕西卫视,url
 四川卫视,url
-深圳卫视,url
 三沙卫视,url
 天津卫视,url
-西藏卫视,url
 新疆卫视,url
 云南卫视,url
 广东新闻,url
-广东卫视,url
 广东民生,url
 大湾区卫视,url
 广州竞赛,url
 江门综合,url
 江门侨乡生活,url
 佛山综合,url
-深圳卫视,url
 汕头综合,url
 汕头经济,url
 汕头文旅,url
 茂名综合,url
 茂名公共,url
-浙江钱江,url
-浙江钱江都市,url
 浙江钱江台,url
-浙江生活,url
-浙江经济生活,url
 浙江教育,url
 浙江民生,url
-浙江新闻,url
-浙江少儿,url
 杭州综合,url
 杭州明珠,url
 杭州西湖明珠,url
@@ -274,7 +347,6 @@ NBTV-4,url
 浙江教科,url
 浙江经济,url
 之江纪录,url
-浙江国际,url
 嘉兴新闻综合,url
 嘉兴公共,url
 嘉兴文化影视,url
@@ -293,11 +365,9 @@ NBTV-4,url
 温州新闻综合,url
 浙江经视,url
 浙江留学,url
-浙江民生休闲,url
 浙江松阳,url
 浙江数码时代,url
 浙江教科影院,url
-浙江教科影视,url
 浙江公共新闻,url
 浙江休闲台,url
 浙江龙泉,url
@@ -402,14 +472,11 @@ BTV纪实,url
 东方影视,url
 东方财经,url
 全纪实,url
-动漫秀场,url
-哈哈炫动,url
 嘉定电视台,url
 天水公共,url
 崇明电视台,url
 新闻综合,url
 欢笑剧场,url
-法治天地,url
 生活时尚,url
 第一财经,url
 纪实人文,url
@@ -556,9 +623,6 @@ BTV纪实,url
 湖南都市,url
 湖南视剧,url
 湖南经视,url
-湖南电视剧,url
-湖南电影,url
-湖南爱晚,url
 湖南教育,url
 湖南娱乐,url
 湖南国际,url
@@ -1370,8 +1434,6 @@ BTV纪实,url
 云南澜湄国际,url
 西双版纳一套,url
 西双版纳二套,url
-安多卫视,url
-西宁新闻综合,url
 西宁生活服务,url
 玉树新闻,url
 海西州综合,url
@@ -1409,14 +1471,11 @@ BTV纪实,url
 萝北综合,url
 甘南县综合,url
 哈尔滨都市资讯,url
-齐齐哈尔新闻综合,url
 齐齐哈尔经济法制,url
 双鸭山综合,url
 七台河民生社教,url
-凤凰卫视,url
 香港卫视,url
 纬来育乐,url
-Viutv,url
 三立台湾,url
 无线新闻,url
 东森综合,url
@@ -1431,14 +1490,11 @@ CHC高清电影,url
 淘剧场,url
 淘娱乐,url
 淘电影,url
-NewTV惊悚悬疑,url
-NewTV动作电影,url
 黑莓电影,url
 靖天映画,url
 星卫娱乐,url
 艾尔达娱乐,url
 IPTV经典电影,url
-无线星河,url
 星空卫视,url
 私人影院,url
 龙祥电影,url
@@ -1491,7 +1547,6 @@ IPTV经典电影,url
 CCTV-5+,url
 体育赛事,url
 劲爆体育,url
-爱体育,url
 超级体育,url
 精品体育,url
 广州竞赛,url
@@ -1515,10 +1570,8 @@ CCTV-5+,url
 JJ斗地主,url
 少儿动画,url
 卡酷动画,url
-动漫秀场,url
 新动漫,url
 青春动漫,url
-爱动漫,url
 中录动漫,url
 宝宝动画,url
 CN卡通,url
@@ -1526,8 +1579,6 @@ CN卡通,url
 金鹰卡通,url
 睛彩少儿,url
 黑莓动画,url
-炫动卡通,url
-浙江少儿,url
 河北少儿科教,url
 火影忍者,url
 海绵宝宝,url
@@ -1540,7 +1591,6 @@ CN卡通,url
 电竞游戏,url
 海看电竞,url
 电竞天堂,url
-爱电竞,url
 风云音乐,url
 音乐现场,url
 音乐之声,url
