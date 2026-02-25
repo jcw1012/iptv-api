@@ -1,38 +1,74 @@
 🕘️更新时间,#genre#
-2026-02-25 20:30:51,https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=5559462299&sign=5a4d41983c091f12c9e39c5f14a783b74cc6e2b6a2b1416a1c3f004541e67eb6bfc38d4bed0fc826908edec5114d7f4f4b45f61b7d93eed686ef4be1fa540ea8eb3f8bb082208b1ad0854d13e7&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+2026-02-25 21:40:36,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
-CCTV-1,https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=5559462299&sign=5a4d41983c091f12c9e39c5f14a783b74cc6e2b6a2b1416a1c3f004541e67eb6bfc38d4bed0fc826908edec5114d7f4f4b45f61b7d93eed686ef4be1fa540ea8eb3f8bb082208b1ad0854d13e7&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+CCTV-1,https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=5559462299&sign=5a4d41983c091f12c9e39c5f14a783b74cc6e2b6a2b1416a1c3f004541e67eb6bfc38d4bed0fc826908edec5114d7f4f4b45f61b7d93eed686ef4be1fa540ea8eb3f8bb082208b1ad0854d13e7&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-1,https://mgtv.ottiptv.cc/mg/608807420.m3u8?userid=5559462299&sign=ab184220f079753562b5368b46873ea0edb1fc77e1d661c547ecc5f2b5ac67bcede6fe8a30dc48c8c19066b3fe9974fedbbf33520df2d6e90c194943e0f1f192f6215e0b65a5a97605563fd084e156b9ca&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-2,https://mgtv.ottiptv.cc/mg/631780532.m3u8?userid=5559462299&sign=0dcf0d95f49ae4a4731bebb5e6b42c97dfcfccfb26d008bf93f56a0b42cf3ee8cf2e8095b849256dc900e27b4a8848c920cb2701b93dfb81bbfebcdf8ce8a6c9edd105cb39beaae56bfb55679604565374&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-3,https://live.ottiptv.cc/mcp/cctv3.m3u8?userid=5559462299&sign=4b99ee60a68ba82dbc4e1d7b9f6e341147ac26b96af746bebefb0463328392d6effc876beaedd981809ec67d3f9425b420fa7ddf8fdce58fd232316502ef1e13a41efa420fd6b141179521d243&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-CCTV-4,https://live.ottiptv.cc/mcp/cctv4.m3u8?userid=5559462299&sign=92a0e9e21ef7857dd513aeeb3f403218f4a22f511b8cbad472c781b1eeb1845134d2f36918d920338b9320b4d3f2f74eb2b05650fb488c0b904f1dd8777704e863541a8d63e3b76e8e870387fe&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-3,https://mgtv.ottiptv.cc/mg/624878271.m3u8?userid=5559462299&sign=aac6d47d20fd18701bd66e7006df0f623479f0a273fd02c44635033327b8c991d0be61814cdc8b16da72a243f6f78e567d03a7f3e03f9a25c0881d45a6ac045e9e751334198a3abfadfe4b2325c80d8963&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-4,http://php.jdshipin.com:8880/bst2.php?id=cctv4k/15000000
+CCTV-4,https://live.ottiptv.cc/mcp/cctv4.m3u8?userid=5559462299&sign=92a0e9e21ef7857dd513aeeb3f403218f4a22f511b8cbad472c781b1eeb1845134d2f36918d920338b9320b4d3f2f74eb2b05650fb488c0b904f1dd8777704e863541a8d63e3b76e8e870387fe&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-4,https://mgtv.ottiptv.cc/mg/631780421.m3u8?userid=5559462299&sign=04f8401684746059838fed293230b8832c4f7f3436b3e0cfe465ce51534259d2cc0ce849859d692b9ec039ba1fc718df25e97ab19d87cc2dc8aec8adddbd7cfc6dbc23470aab0fd7530dab0fe2debc4c5a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-4,https://mgtv.ottiptv.cc/mg/608807416.m3u8?userid=5559462299&sign=8ceacbf5c42de44f0fc598b3d0657fef00ac3339c206f5eed2b98fe4983b1c3a37d88a1d80af5fba26c9275527d1a1965dafb3a975d758ed6b0fafeed46cb43be78c7ce377f2cac11243ef077383042460&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-4,https://mgtv.ottiptv.cc/mg/608807419.m3u8?userid=5559462299&sign=34efdad40c530d7be4a634243e3e2cbca0702cca6ed84b01c558a829d7853aa85cf3b44c39c998124efa2c749bebb1e059dc37c4ae59897164ee4ae5ad14bcdde2ada31d2c1ac2c9d65c13f9e5bc43cff3&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-4,https://ytb.178.indevs.in/?id=7j92Myu2wzg
+CCTV-4,https://ytb.178.indevs.in/?id=f6Kq93wnaZ8
 CCTV-5,https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=5559462299&sign=799ad7b381aaaa487fee8450981408eb70baf1fdf30ab76e786b788ad379a691f038decea12acf185737a7ac253888c8b5e13894e4ed5266cd21137024a5dc54de6567c84d6730cc96ebe9184aba&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-5,https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=5559462299&sign=e9b4a80e160246aa39db40000b8ea23c828e566f7c0650d2176acad6e4707b42593cf80e2d78372d1df1d638d7ee12fffee660802b8830b0a372a2fa21b196b2746cc04e72f3bf670a5e244558&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-5,https://mgtv.ottiptv.cc/mg/641886683.m3u8?userid=5559462299&sign=cf4d9e769aa9adf21df6e907252c0a30a8e6a140bc9c76f25c9d0b8940a43661e7826ba3cf9e37865871f2bd6028e788457628ce43a61b938fd0a2adcdab3e2d06d946d722fdc30998a3a0eeab223e7426&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?userid=5559462299&sign=dccf24453800d8bba2183f44e75221048975cf6f40880968e9b7232906454fce8dd978084ca41bb069f541753481c4df9c660855fb30e6c0adec5890880549f3abb48c728df0b2b3fb2370c1fc7d5ab57c&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-6,https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=5559462299&sign=bccf4930293e82ee4457a69cc43ab23e97ab52dc1eecca5803f5b6686abe0a1023a1741c2d7f7cd87d9632436747e3edf17fa04d87a4377ceb50f572233ead400e2feedee4edeabf502328b90e&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-6,https://mgtv.ottiptv.cc/mg/624878396.m3u8?userid=5559462299&sign=20d05bfb58d49d70c5aa97e27ae974ea0a9b6ec7d2b89eebbbc47275bd74be0464928d8eeba946966e4071daac89b10208910f92babc3958948f643b3e5d348c59859c5bdc5056a0939d09dbc2a3d3e404&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-7,https://live.ottiptv.cc/mcp/cctv7.m3u8?userid=5559462299&sign=56a4d1737bc2020ec16575b3db7c126b4a0ad30b9f5f405c8c78faab34d563438c9d0c3bb19505604fa9a4f02fde76a189f1ef9292c52cb8444a623f7e7c84ebe9ca05cb41c0eb63bdeeb96b4a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-7,https://mgtv.ottiptv.cc/mg/673168121.m3u8?userid=5559462299&sign=b9ca72f795800233cd1452c70d7e6d5ba24d63bac373902c5e876062caf0a675e82a6d4f7876a0b8cf1b4cd9175b4a2e79819e8d65444520115ae35b28f201d88e6cc0264f7d5a330cbfd7e5ecb0847e64&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-8,https://live.ottiptv.cc/mcp/cctv8.m3u8?userid=5559462299&sign=7186515d5a64154ee807fdf3ecdee9f825aab4e1c7196f2c735eb63185ad6be88965fb53da64da2050bce2034e604dfcbc08788810ffaf19449950afb2778df5586e7c9f6f13bb8f7f9618a873&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-8,https://mgtv.ottiptv.cc/mg/624878356.m3u8?userid=5559462299&sign=1349ee0c1976752b4d8340a81eea116c99cc0d71fb892383b5dbd03b5edc15aba9e7eb18daa3fec4f3aa9a215dbace1a88c7230c002a8efbbe12fed3cd7789dd4be98f73f71a1deff56a577fba95fd859e&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-9,https://live.ottiptv.cc/mcp/cctv9.m3u8?userid=5559462299&sign=5b535a90df5c207a72f5909f32e72caf1a16d153c1670863b2274215aaaadebe6f2556b9fcdacef6c7f18ac1703baf53a0e1bc09e300b1ff8728f9c5aaa41aeba4216def9dc80608f6a2c4865a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-9,https://mgtv.ottiptv.cc/mg/673168140.m3u8?userid=5559462299&sign=3234990aef0abb35232add50dcc104c5304d0462410d2dec31d320b96ab16258b8c09e12282508f81cf0ce0f2804fe2caeeb23752e7de12711cf2c8baba11ac8e96cc72b654620e89b3f3c15860dcf6479&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-10,https://live.ottiptv.cc/mcp/cctv10.m3u8?userid=5559462299&sign=c468b1bf4b71a67b8519eeca3d061ddccbc64977de60b09b411df6c6470c082787691014b0985737fd726170be9c2e2402d55f056194822cdd1b5b12a0d0654098d20e260d044892143385c56f2b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-10,https://mgtv.ottiptv.cc/mg/624878405.m3u8?userid=5559462299&sign=5273b9e99f908afb2e4c11b1aee8f59fd7a1e20ed09a832fcc63cdf4eb5219bbf6671d72da35506af704e2585bcd614a1a6e3df55a76bcdb7f93cfa845b37eedb7c4d0cb02165132ba187b53089646f820&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-11,https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=5559462299&sign=e7d539efe0830e87ec8266a4761f182582914d2fb1e19bc1866bc89b1fc439a5c6e70aa54cbf22739435630abd4c168a44881107685bf2863ff455fb1ebf23facf276b2873655c34830279326e61&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-11,https://mgtv.ottiptv.cc/mg/667987558.m3u8?userid=5559462299&sign=736060a8a966193d1e97b68b457a6be7ba6420890817408f94c97d51e4c7a05ac2e3de74ddbd6509759514ba49183091f9924842f8b11430068d95cec2cceca36906e5b68d02d3111c8dc379279f14ddd7&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-12,https://live.ottiptv.cc/mcp/cctv12.m3u8?userid=5559462299&sign=e6c94e6a8e59261f804dec8de382767bc7e2d7aaeff171e99bc608419ff7bf082f8e99d8cf2c8870e25c923b6007ceeace344f814df57a90325d345841d5ada0c74e2d1bde52d7290e08cbc9a70d&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-CCTV-13,https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=5559462299&sign=50ef89ca1ec8dcecfc4e0153074e7b9a6113e36cb760b2b007f076633bb8794c46fa857ac6407c6c50cfe2ab7c5d8c6f87af2793efe13ada9c572878b5fb8c6c168ae504f3743e920d40354876cb&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-12,https://mgtv.ottiptv.cc/mg/673168185.m3u8?userid=5559462299&sign=363c86cbd5cca1a866567123988290d66f7d4a96e269b7c70a4d6117b44e4a17ca7bf9004a48c7fbeb615ff52a9555c9ec101f95e5ae4006697a121d2066a1e24f103ffb8d9cd3d4c5ac8528fb57ef8a14&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
+CCTV-13,https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=5559462299&sign=50ef89ca1ec8dcecfc4e0153074e7b9a6113e36cb760b2b007f076633bb8794c46fa857ac6407c6c50cfe2ab7c5d8c6f87af2793efe13ada9c572878b5fb8c6c168ae504f3743e920d40354876cb&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-13,https://mgtv.ottiptv.cc/mg/608807423.m3u8?userid=5559462299&sign=bbaec7f685e1c0234ab1862f2423b2c4b42d2f1ae386d7bb2b3f41d6806bcd8a19cc26011afe90198ad410b7baa69841dc262d754dba79de344aad924e911fd66f84ab57acd11adc797fd94e1fa37956ae&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-14,https://live.ottiptv.cc/mcp/cctv14.m3u8?userid=5559462299&sign=4a9e31581aa67387e13f85b41f51eb7a84cd9eb6630a8dd6850ac9ac7c6e795725e2b05cb91e5e092fdac6a4ca7d9b4eea8e04f4455e40d8dc227940e612705b1b3d5743fbe17e1f61ca218e2302&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-14,https://mgtv.ottiptv.cc/mg/624878440.m3u8?userid=5559462299&sign=c9ca8ad3dcf21b9504657b6808cd1c40512ec96a570fb82fa8ef80b53c9adf4015427d05a3c5e44911ee5ce79e772bf6bcce548f5296c73aa6de11be99616074345d17e681965157996a13116373214b56&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-15,https://live.ottiptv.cc/mcp/cctv15.m3u8?userid=5559462299&sign=2843d5aef3ec62add8f4dbbc553c02bd3b9693bb09a507da3b2ebde10b0d12470a818bff3899243707d2f0653a39498739cfa561be1aecde3358a9611ba30cc6fecfc17922a89a5169c92e42c085&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-CCTV-16,https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=5559462299&sign=b52a2a0826d3b67c3c51652f59a9fa2fa95074ac4adcf97088e9de58e44bbec4d6fb8cfc2d8e18b98edc57b46b41bfb1e62d9969e19daaa18cca800518413c821412fc5b48cc97fb4e60c43cc65a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-15,https://mgtv.ottiptv.cc/mg/673168223.m3u8?userid=5559462299&sign=5d064c1599b5f9eca536597bb738e2dd754df5664dd8717edcf21f117221ac0a568c2fb3c724708a9c8884b5450a3e1c6512b78cd73bfcb09b00af2e8918cac8501ac9375dfb3f370b717df87a4f8bb22f&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
+CCTV-16,https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=5559462299&sign=b52a2a0826d3b67c3c51652f59a9fa2fa95074ac4adcf97088e9de58e44bbec4d6fb8cfc2d8e18b98edc57b46b41bfb1e62d9969e19daaa18cca800518413c821412fc5b48cc97fb4e60c43cc65a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-17,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=5559462299&sign=e3f48914dbbe99e6d02ce484dbda52788aefe23d2e89987b940ea681404423813f4acd1d24d4034e51ebf9c6a00138374f2696b08d66ccff1de80fc061f1397ce6fed5e45685aaa20e0b7ebf8bdd&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-17,https://mgtv.ottiptv.cc/mg/673168256.m3u8?userid=5559462299&sign=6c6b92df7285c968f239d36f284daeab68b8fe93e9ddd0279263ac511b049b3b11d6c9ad50a0a8a14cbccaea3cf13a42a452382f876bd519e7635e5b9e8162b34b3ef9294683d5b6690df613e4c2b4f3ec&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+广东卫视,https://mgtv.ottiptv.cc/mg/608831231.m3u8?userid=5559462299&sign=e2faee8a3ed1be00e9871a75d5a16acf6a0c5734d261a4c8912e783d2ce640c75a13c74705098d6864820db05053de901131e7fca77167e7823febf5fd93c95919c882f57413325e43603f825fd341eaee&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+北京卫视,https://mgtv.ottiptv.cc/mg/630287636.m3u8?userid=5559462299&sign=8c38f19cca150ab3e079ad1780d080937c05a9a9355511ef59b4ed8f035f924daeaa2f87865ec83f46aff25a39dc2ee437ddf53232a3e22a1df2ba0c0b72ebc08991f9aba35cd69d27cb83720bb0e9ccec&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+湖北卫视,https://mgtv.ottiptv.cc/mg/947472496.m3u8?userid=5559462299&sign=2bb6fae26254fa93ffd1a22cfcc1ec9d0c55564365c40d80ce47e1548db12f6eaee123ecffff7bdcee80739ebf5c4ea0afd07157fb90961aee7b793d0ee8d1f03442c2fc09aca8af852d18568a588a7eea&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+重庆卫视,https://mgtv.ottiptv.cc/mg/738910914.m3u8?userid=5559462299&sign=3ed5c8e3e10a4069c3ff416f564b4eaa745b73345b0b1618d9a72efe8b915421fee4205e9aa57dc92a5ff1ff82a2a2535a701745e2c1b253425b771e94334f8021405e258a17b39df205d0bb7200ea8329&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+东方卫视,https://mgtv.ottiptv.cc/mg/651632648.m3u8?userid=5559462299&sign=7289fb6a46d458c8cd40a637c9b4c77ce83a61cbb53658e4d410bd60c229927aadcd4a8604375bc403f50734ae96d2ebc5d1c575a2e675339cbfae33a0888bf4cab02f44942a4ec209fbea65521524f92b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+东南卫视,https://mgtv.ottiptv.cc/mg/849116810.m3u8?userid=5559462299&sign=d2408e2dffdf7ad56296ce834439fc2d653114405ef140fcc6b0f36d5fe420b2cc7d9c521450ad4adb76268cb3546ea94bed2773fb3a75a06502b69d5f79c9355466bc88763acabfe9453355b2e6e2e606&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+海南卫视,https://mgtv.ottiptv.cc/mg/947472502.m3u8?userid=5559462299&sign=2ff419512772a264a384ce12e781c3817229ce8109068a917bb1fc2ec4f44d80ea4e1e2f7b8bee7cf325d36865c56279b08e3dd4691766053379d0860c73402613f65c9dd283f350315f3ce065e44db76d&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+河北卫视,https://mgtv.ottiptv.cc/mg/962042070.m3u8?userid=5559462299&sign=9f78a4ef063a01c8021a251f3be2b9c25d12e0da2e9cde7571a5b4117431c7e7e4386337c93c16019d5354045c76c3486957d46f4fd12d8843d3abda9dca7a7732f229ee681fbdf09f17a21e2b7838d668&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+河南卫视,https://mgtv.ottiptv.cc/mg/790187291.m3u8?userid=5559462299&sign=bdcb551ae44bd23364fd7eb35e03e027efc3b0f4a6100be9bc40011d2bf7b1e022b8ae98b6e85b47c14e84d217b62358cb7a4ab8d79e6efa6b531d536afc2fd1cd46422e6be3df1a83dfc7e11ad80a8a95&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+吉林卫视,https://mgtv.ottiptv.cc/mg/947472500.m3u8?userid=5559462299&sign=4cf0c158ffa7984fdce5397a3e689b48f8a4c30f940a3b107c82a050f7fc0e3e3cec2783636ae316157759aa2d735378adf16efa16cdea3f6ddee9635663b80c8477367b753e0a421188aa602e37215b49&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+江苏卫视,https://mgtv.ottiptv.cc/mg/623899368.m3u8?userid=5559462299&sign=5b4fb581f836ab0346794deb85813a62f801e5998e2c385fac2f6d3047aed45c06a8b032f9cb24edccb74a72a654adaaa298f11f6bf5b66ca82d0c8dbee16de77bccd3a530dd993e795fcb87207325f9dc&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+江西卫视,https://mgtv.ottiptv.cc/mg/783847495.m3u8?userid=5559462299&sign=1cf38264c27711bd1b83f09b47dbae66a6709478f077b69d58118b21142e7b88e56f0ea3a84824a80a3e34e83319bbe48b8a98266573740c5a05f45aa243019aea1e91ca14eae25be69e036b12baae7421&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+辽宁卫视,https://mgtv.ottiptv.cc/mg/630291707.m3u8?userid=5559462299&sign=00c76ad4b5c416bde971418371ef8bbe2a6d3f1743d704986102624bb42d8feb3a83c3d04b6c8b29ba8c97c491c07d3038c132b2b34334a44afbb9c5a18cf0a0c3b59039d2c77770153c0808d619ad7c84&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+宁夏卫视,https://mgtv.ottiptv.cc/mg/738910535.m3u8?userid=5559462299&sign=107630a1e4bfdf3bcb3f6cb2f3a2b3baf236c5301804646e59fc37c1f1165382aec21e5b25ee36b9cfa54c4f4de4c8c34576659277e7337605da23b9d466b663835b6b046ef7e7f4f5b04a4f83b50a7144&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+青海卫视,https://mgtv.ottiptv.cc/mg/947472506.m3u8?userid=5559462299&sign=49cfa3702df0d6b091529af6600ee61a5f9535038c01a71499e76cc7c938be8159f54bc4bc4b6d505c6fd3c4692ade74c86c50ff0f2263af362d0fe4eb564a2b678b6b86d2a9cc2a3983660b6b32346307&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+陕西卫视,https://mgtv.ottiptv.cc/mg/738910838.m3u8?userid=5559462299&sign=d9b89b18cbd33c959e1b07c4d0fec1102527df065f6bd6b097b9a34ddac088fc0e939039f1db450a986334e0ca362fe3466b1d02712146a95086302469deec5faa0266d6c87cbf52de3eb4eb4983995ebb&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
+三沙卫视,https://mgtv.ottiptv.cc/mg/961023778.m3u8?userid=5559462299&sign=6777d458fab5a2ae99c436b5c00ce31c639fb8c3b4cb850ac9358fbbb0dbc52c84aede0d21db080ac78ae9fe9b90c497f81bc87c358995d303b693e262138bd70e7ca0b1ddc36313efbb8f70e982c3812a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 
@@ -43,6 +79,8 @@ CCTV-17,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=5559462299&sign=e3f48914d
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
+广东卫视,https://mgtv.ottiptv.cc/mg/608831231.m3u8?userid=5559462299&sign=e2faee8a3ed1be00e9871a75d5a16acf6a0c5734d261a4c8912e783d2ce640c75a13c74705098d6864820db05053de901131e7fca77167e7823febf5fd93c95919c882f57413325e43603f825fd341eaee&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+大湾区卫视,https://mgtv.ottiptv.cc/mg/608917627.m3u8?userid=5559462299&sign=44f3de140c69182e9faf23f1bb2a5a20b9fef163ec936f6fb88aa675fb84857f0b0af3d1e0bc4c111ec99a6eb2adec8bda9aad5293425d51eb14da31a1e8629f252aad67e15d11db2d133fa44506367ac3&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
 广州影视,http://r.jdshipin.com/TcKr2
@@ -50,35 +88,44 @@ CCTV-17,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=5559462299&sign=e3f48914d
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
 
 ☘️浙江频道,#genre#
-浙江钱江,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-浙江钱江,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
-浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
-浙江生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-浙江生活,http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
-浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-浙江经济生活,http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
-浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
-浙江新闻,http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
-浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
-浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
-浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
-浙江国际,http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
-浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
-浙江民生休闲,http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
-浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-浙江教科影视,http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
 
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
+上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
+上海第一财经,https://mgtv.ottiptv.cc/migu/608780988.m3u8?migutoken=0c7df30d952e5d120406d3eb259cd5e26ec6aa86037008719de147cc6fbc34e877c3e3d7b9617267f35521bdddc4c5995e6fc0583816a5df1bfe19814868525e736733676761a4b2d4db618e84
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
+新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
+新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=0ae43c1d7863c5b2f8d2badcc9c56e76b6322faa0df5529c7b932baaeb28b592d5a259182b45c76f5e43a68ce02feee65d5d09e6064329aa96bd94dd351042a75a15b3b13c17f6cc88a332a2885d726de0&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 法治天地,http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424
+第一财经,https://mgtv.ottiptv.cc/migu/608780988.m3u8?migutoken=0c7df30d952e5d120406d3eb259cd5e26ec6aa86037008719de147cc6fbc34e877c3e3d7b9617267f35521bdddc4c5995e6fc0583816a5df1bfe19814868525e736733676761a4b2d4db618e84
+第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=dbcc3ad893975bc1049e4f0c7a565ce04edd139d4f8275741598f69273bfbc3df4fd265b9c06d49f152fb8536a0d1568d498034412687462c948309c93461283832268b5bc5f555720f522f6bbb39c8162&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
+优漫卡通,https://mgtv.ottiptv.cc/mg/626064703.m3u8?userid=5559462299&sign=3c1403b500d0c19b0179a2dd41f2a420d06076d4825d3844c10d977881934ac7de7cb3d87427f60bc2f43c267094d8989f9146b2ab55e6e7f5952568878808baf483f0ac1534f4dacb1e0b863ffe66c07a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+南京十八,https://mgtv.ottiptv.cc/migu/838151753.m3u8?migutoken=e1c3c9e2e67541d90ea94c4c917f96ecf43c6c0ae7c616929d8676e7c14bc5587ba870ce22575333640bfff61b05d4d468f6564c6251023f1ad20957cfe3b2c12e71b4662f83dce5d920a86c29
+南京十八,https://mgtv.ottiptv.cc/mg/838151753.m3u8?userid=5559462299&sign=af65d5dece678841f449e0967ccad2695372105b09bba54d51cc334cec390158442b412d1fdf98176d3c81ef6ff23e0a156ea63e3a040c2e2c71bb80407e8099e3b0dff25eca25c275c75f9005ed7207be&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+南京教科,https://mgtv.ottiptv.cc/migu/838153729.m3u8?migutoken=0427a8c0867765b66984ce8ef774d494eeb52a2d6a7eefe17c4b03fa30923700917323b8951caa30617f3eecc1db2844cdff2f7470556533fbc072ad7a7cb0c6284344cc57983294a2b26f4303
+南京教科,https://mgtv.ottiptv.cc/mg/838153729.m3u8?userid=5559462299&sign=0d19e6332362bb3481270e06606238fc74675511f1f19d2f231c9de7d790384d078f7e40cffeb6d566c0ca09c86f2e419e30f9da8dbe27d57bf3e202b598405bff44123f96144578fa3ce3720a67a0d4eb&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+南京新闻综合,https://mgtv.ottiptv.cc/migu/838109047.m3u8?migutoken=d3d943815e6d6e9e9493a9b4b1d5a1d360bb5f3c04230f6d4d71f7f7c9f30771d321f1c262008c92ffde17fef4a62d1e1c58d5a9454573fb1489994d9be29f4e1cc7786813b671581eda4b9439
+南京新闻综合,https://mgtv.ottiptv.cc/mg/838109047.m3u8?userid=5559462299&sign=35256f82881b38173d57bd967041c38e4ca05c595e1115d9db695e13fd8809aee047a81064625e0683f74cf81ce9d40487a65d3d96324c7e7baf3d1e74b123a4c33fba08cdf87f8ddd39aeb99c44083f74&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+南通新闻综合,https://mgtv.ottiptv.cc/migu/955227985.m3u8?migutoken=03e9c85f19b5ac291f5863436507873a8f47ec3c677c7857c89bda5778edc8e38fc38b4270aa374c49eee39b39ffaf80a20b750130c27760df766c0cf7b5d437be8dc60c1ced9117d98f6c9b3e
+南通新闻综合,https://mgtv.ottiptv.cc/mg/955227985.m3u8?userid=5559462299&sign=ae4a83210821b0bbff82ad091764556c92c26d1535816bd975a717c7077be383692e76b1f93da62b0d1c0eb59cfb3d9a7f7bf5b0c832dd8c3533435051fa8584c14b55543782d85ee777003521cbf32cef&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+江苏城市,https://mgtv.ottiptv.cc/mg/626064714.m3u8?userid=5559462299&sign=aa5a4ea21e0ee8a416ce10bc2b34bfa0a16955b243cfc54ba1f7d5ed808b8023e2ce36d58e686d16146c0ddd3218860fe672470253f7d1d944e35f8db85f5d688004653e9968087a725acdb4616449460e&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+江苏城市,https://mgtv.ottiptv.cc/migu/626064714.m3u8?migutoken=02cafbc9d94c9e5e26c383c50287313c55f7e68abea08e811428e9b13cd8e46f93919d1a0859b1c76d8e4e78e1f7b8a6f89d71daf38a8275ac7633b59bcdb7cbf189e3152afb4fa80fadf4b134
+江苏影视,https://mgtv.ottiptv.cc/mg/626064697.m3u8?userid=5559462299&sign=98b5bd96fcb60bf6eebd029ab9150cff5857281c5f23b5e5dc21566781a63f9deb9f8f7b1e6e318fa1db2ea542ca6ce2107a5f69eebdd11a6f010362e988356b71e84dc3d913ded0f247330331e144b4a6&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+江苏影视,https://mgtv.ottiptv.cc/migu/626064697.m3u8?migutoken=6508bc5fae9f621ed6ec72d39eb7f60ab52c4b412a5ee7f5b612640ecccbde1f9584f0a97aebc090cb58f73e9e079ced87b059526a6614b5a9ad5a23ff4863d36adcc1ed699583e058fac3330e
+江苏教育,https://mgtv.ottiptv.cc/mg/628008321.m3u8?userid=5559462299&sign=237e2973500e338cee4f2774df77dd0b0b27b654316347b8ec0f1b45028b4f48070833e6c4d8339bf9a5bcde11b9c505df6ab45dd1af469810fd1a1804ef2968d3e83cdd354f28433c83d09a04afd1c6b0&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+淮安新闻综合,https://mgtv.ottiptv.cc/migu/639731826.m3u8?migutoken=383a4690d772fe16ccec98f2da2e7e0c3b362ae2d9a0fa219e9a7bb76bb96d4ca6392f861efb0a61154552c563897f4660867745735f85e310ec9fb52d7fc55cd30da8d55169f8c415c5a69a15
+淮安新闻综合,https://mgtv.ottiptv.cc/mg/639731826.m3u8?userid=5559462299&sign=b29560a2fcb53d453acbe75176a8e9f91ae11fe3a6d1ca278447a19b6e3707271a06627a809dd0d3180bc0785cdd882db0e90dee0f94d0cd663fa6ece4ab0fe5a5cc077815a297f2c973b0eddd597c6ebd&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+溧水新闻综合,https://mgtv.ottiptv.cc/migu/639737327.m3u8?migutoken=4c07b7afe94ad06d114a6bccae5747804d493ab7b1100069e485b78d3cb91c0fb0dbd92aa90a6157d7066e5b90780fabf5e150e17ebb9bc72b8bb18f43c5acddd1c0fd4d1904a99210aa962135
+溧水新闻综合,https://mgtv.ottiptv.cc/mg/639737327.m3u8?userid=5559462299&sign=acb20ca594d40f6c7532125efb36faedf33bf2f255bf39997b9f3fac7e196b75521fae8358a0309b481c3a45b85ea245d79966e3ae9c351619b2e51f6cdd0b9a3a90a18fecc3f42748e5434a7bb25b626b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+连云港新闻综合,https://mgtv.ottiptv.cc/mg/639731715.m3u8?userid=5559462299&sign=e9f09835b85408183c78bc39fa6e64a66ca93307c22cbf2484b380cd8d2093f0f08cf451c4268c7de12071cf3d8701752bf01f4e73bd4911eca25e8fe7935b6807996637af0b1614422a9aa3df8c70fc30&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+连云港新闻综合,https://mgtv.ottiptv.cc/migu/639731715.m3u8?migutoken=70f90182e47785fca234628a083c2a775b48319c0603f2641b5a891ba90b43816e51fb1b07cad8793011132425ebbc0f1568b3bc433d2f04e40344c5fe163be8bf6490e14ab6b96b4419f3f134
+镇江新闻综合,https://mgtv.ottiptv.cc/mg/639731783.m3u8?userid=5559462299&sign=54a78b393609cf950050beea026f868d7489fa0b3d9068bbcf05dbb8a45c802b493e4157371ff39550b19933bc4f654c1a16de24ec6cdd9c9345b414d8a33517d29936d7b57d22973a30f9b7f9e8ceb3ce&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 
 ☘️辽宁频道,#genre#
 
@@ -90,8 +137,8 @@ CCTV-17,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=5559462299&sign=e3f48914d
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
-广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 
 ☘️天津频道,#genre#
 
@@ -99,6 +146,11 @@ CCTV-17,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=5559462299&sign=e3f48914d
 旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
 
 ☘️陕西频道,#genre#
+陕西新闻资讯,https://mgtv.ottiptv.cc/migu/956909289.m3u8?migutoken=d4f3f5a8bf93821548ae70c6bd12860956574c27b3b1ef52c88c8e3d72259b1727a6dbf5d6a5de850afac4c7ffe2f2124bb3b558a89906cd32ccc8913f0f22dd74b7a84514b6015bff75903d9c
+陕西新闻资讯,https://mgtv.ottiptv.cc/mg/956909289.m3u8?userid=5559462299&sign=3f2aa06f987d4c3cb14b844e0c826611c16386bd70e946521050129238b322106b8de3f83db53fc0a13bd4521b1650f7928fe34c336a7ef41ac12733fc25871e8228e84fa7b00f45394d7b6b10deca8474&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+陕西都市青春,https://mgtv.ottiptv.cc/migu/956909358.m3u8?migutoken=c3931ea9d3d7ede24a9d13084dadcc55f7f21b114c6c584ca7defd6492ba46b7286dbd751d0f853f83e998e4b0349c62cf4bc570ac83667c4f6bd49a9411edc68e80c1d7f24da79a264d15912b
+陕西都市青春,https://mgtv.ottiptv.cc/mg/956909358.m3u8?userid=5559462299&sign=c88360145dc9fc7cf805e91722404d8120a8ee230ee4612d3dd8a7ff009464fc67c043437644dd272f780ea0e9b14500faf551c6c34a73f7aaf769d97cf1025807f7a8882be007c656b71fa7dd4b9697c8&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+陕西体育休闲,https://mgtv.ottiptv.cc/migu/956909356.m3u8?migutoken=2cd1b3120e6a6d3cec136ca61cb23c24512860d4956d391b8c7d8a1fce58c3fa549930217eede8887c05f73eb24ac9692be10bdd06557f58130ff6717e37e1b6ba38adfacf8e74298fe1d4f48c
 
 ☘️福建频道,#genre#
 厦门卫视,http://r.jdshipin.com/p8dEo
@@ -202,7 +254,9 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 东森电影,https://hls.iill.top/api/dsdy/index.m3u8
 
 🎬电影频道,#genre#
+CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?userid=5559462299&sign=ba657c78d098c855ae6436cb8c80f93d12d389e8f18b0f26f30a3e6ad7b305509d653b47a6a67f3bca39a2491519949341dc1abd9f8eb4d447c65e59bf9089d6253b4387f1782843e2c6e96e06cfba7bbe&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
+CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?userid=5559462299&sign=3db10a67af895c2a6417c0a7a9e0341d2f9e42a58df3b889c17d720f2c47f4bbd579c991bad95b80802ac59194cba1ecffef305e9db0cff097f4a43fdd074bd78288b25a292b094948bfd36ab7058eb36c&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 NewTV惊悚悬疑,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010077
 NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003
 纬来电影,https://hls.iill.top/api/wldy/index.m3u8
@@ -221,6 +275,8 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 🏀体育频道,#genre#
 CCTV-5,https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=5559462299&sign=799ad7b381aaaa487fee8450981408eb70baf1fdf30ab76e786b788ad379a691f038decea12acf185737a7ac253888c8b5e13894e4ed5266cd21137024a5dc54de6567c84d6730cc96ebe9184aba&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-5,https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=5559462299&sign=e9b4a80e160246aa39db40000b8ea23c828e566f7c0650d2176acad6e4707b42593cf80e2d78372d1df1d638d7ee12fffee660802b8830b0a372a2fa21b196b2746cc04e72f3bf670a5e244558&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-5,https://mgtv.ottiptv.cc/mg/641886683.m3u8?userid=5559462299&sign=cf4d9e769aa9adf21df6e907252c0a30a8e6a140bc9c76f25c9d0b8940a43661e7826ba3cf9e37865871f2bd6028e788457628ce43a61b938fd0a2adcdab3e2d06d946d722fdc30998a3a0eeab223e7426&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?userid=5559462299&sign=dccf24453800d8bba2183f44e75221048975cf6f40880968e9b7232906454fce8dd978084ca41bb069f541753481c4df9c660855fb30e6c0adec5890880549f3abb48c728df0b2b3fb2370c1fc7d5ab57c&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
@@ -231,21 +287,21 @@ CCTV-5,https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=5559462299&sign=e9b4a80e160
 🪁动画频道,#genre#
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
+优漫卡通,https://mgtv.ottiptv.cc/mg/626064703.m3u8?userid=5559462299&sign=3c1403b500d0c19b0179a2dd41f2a420d06076d4825d3844c10d977881934ac7de7cb3d87427f60bc2f43c267094d8989f9146b2ab55e6e7f5952568878808baf483f0ac1534f4dacb1e0b863ffe66c07a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 炫动卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
 24H国漫热播,https://www.goodiptv.club/yy/1353937086
-浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
-浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 七龙珠,https://live.ottiptv.cc/huya/11601966
 经典动漫,https://www.goodiptv.club/yy/22777075
 经典动漫,https://www.goodiptv.club/yy/24180320
-漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
+漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 
 🎮游戏频道,#genre#
 爱电竞,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000230630
 
 🎵音乐频道,#genre#
 CCTV-15,https://live.ottiptv.cc/mcp/cctv15.m3u8?userid=5559462299&sign=2843d5aef3ec62add8f4dbbc553c02bd3b9693bb09a507da3b2ebde10b0d12470a818bff3899243707d2f0653a39498739cfa561be1aecde3358a9611ba30cc6fecfc17922a89a5169c92e42c085&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-15,https://mgtv.ottiptv.cc/mg/673168223.m3u8?userid=5559462299&sign=5d064c1599b5f9eca536597bb738e2dd754df5664dd8717edcf21f117221ac0a568c2fb3c724708a9c8884b5450a3e1c6512b78cd73bfcb09b00af2e8918cac8501ac9375dfb3f370b717df87a4f8bb22f&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 
 🏛经典剧场,#genre#
 笑傲江湖,https://www.goodiptv.club/yy/1354930909
@@ -260,8 +316,6 @@ CCTV-15,https://live.ottiptv.cc/mcp/cctv15.m3u8?userid=5559462299&sign=2843d5aef
 上海滩,https://www.goodiptv.club/yy/1382745184
 
 🈳无结果频道,#genre#
-CCTV-2,url
-CCTV-5+,url
 CETV-1,url
 CETV-2,url
 CETV-3,url
@@ -279,37 +333,21 @@ CETV-4,url
 世界地理,url
 兵器科技,url
 香港卫视,url
+浙江卫视,url
 湖南卫视,url
-北京卫视,url
-湖北卫视,url
 黑龙江卫视,url
 安徽卫视,url
-重庆卫视,url
-东方卫视,url
-东南卫视,url
 甘肃卫视,url
 贵州卫视,url
-海南卫视,url
-河北卫视,url
-河南卫视,url
-吉林卫视,url
-江苏卫视,url
-江西卫视,url
-辽宁卫视,url
 内蒙古卫视,url
-宁夏卫视,url
-青海卫视,url
 山东卫视,url
 山西卫视,url
-陕西卫视,url
 四川卫视,url
-三沙卫视,url
 天津卫视,url
 新疆卫视,url
 云南卫视,url
 广东新闻,url
 广东民生,url
-大湾区卫视,url
 广州竞赛,url
 江门综合,url
 江门侨乡生活,url
@@ -319,9 +357,15 @@ CETV-4,url
 汕头文旅,url
 茂名综合,url
 茂名公共,url
+浙江钱江,url
+浙江钱江都市,url
 浙江钱江台,url
+浙江生活,url
+浙江经济生活,url
 浙江教育,url
 浙江民生,url
+浙江新闻,url
+浙江少儿,url
 杭州综合,url
 杭州明珠,url
 杭州西湖明珠,url
@@ -347,6 +391,7 @@ NBTV-4,url
 浙江教科,url
 浙江经济,url
 之江纪录,url
+浙江国际,url
 嘉兴新闻综合,url
 嘉兴公共,url
 嘉兴文化影视,url
@@ -365,9 +410,11 @@ NBTV-4,url
 温州新闻综合,url
 浙江经视,url
 浙江留学,url
+浙江民生休闲,url
 浙江松阳,url
 浙江数码时代,url
 浙江教科影院,url
+浙江教科影视,url
 浙江公共新闻,url
 浙江休闲台,url
 浙江龙泉,url
@@ -461,9 +508,7 @@ BTV纪实,url
 七彩戏剧,url
 上海外语,url
 上海教育,url
-上海新闻综合,url
 上海点掌财经,url
-上海第一财经,url
 上海纪实,url
 上海都市,url
 上海金山电视台,url
@@ -475,10 +520,8 @@ BTV纪实,url
 嘉定电视台,url
 天水公共,url
 崇明电视台,url
-新闻综合,url
 欢笑剧场,url
 生活时尚,url
-第一财经,url
 纪实人文,url
 都市剧场,url
 金山电视台,url
@@ -504,20 +547,15 @@ BTV纪实,url
 东海新闻,url
 仪征新闻综合,url
 仪征生活,url
-优漫卡通,url
 六合新闻综合,url
 南京信息,url
-南京十八,url
 南京娱乐,url
 南京少儿,url
-南京教科,url
-南京新闻综合,url
 南京生活,url
 南通三套公共,url
 南通二套社教,url
 南通崇川综合,url
 南通影院娱乐,url
-南通新闻综合,url
 南通电视台一套,url
 南通都市生活,url
 句容党建,url
@@ -567,9 +605,6 @@ BTV纪实,url
 江宁电视台综合,url
 江苏体育,url
 江苏公共,url
-江苏城市,url
-江苏影视,url
-江苏教育,url
 沛县新闻综合,url
 沭阳综合,url
 泗洪新闻综合,url
@@ -582,11 +617,9 @@ BTV纪实,url
 涟水综合,url
 淮安公共,url
 淮安影院娱乐,url
-淮安新闻综合,url
 淮阴影院,url
 淮阴综合,url
 溧水影视娱乐,url
-溧水新闻综合,url
 滨海新闻综合,url
 盐都综合,url
 睢宁三农,url
@@ -603,10 +636,8 @@ BTV纪实,url
 贾汪旅游,url
 赣榆新闻综合,url
 连云港公共,url
-连云港新闻综合,url
 金坛新闻,url
 镇江二套社会民生,url
-镇江新闻综合,url
 靖江新闻综合,url
 高邮一套新闻综合,url
 高邮综合,url
@@ -855,12 +886,9 @@ BTV纪实,url
 延安一套新闻综合,url
 延安二套公共,url
 陕西农林,url
-陕西新闻资讯,url
-陕西都市青春,url
 陕西生活,url
 陕西公共,url
 陕西购物,url
-陕西体育休闲,url
 陕西影视,url
 汉中综合,url
 洋县电视台,url
@@ -1485,7 +1513,6 @@ Now华剧,url
 靖天资讯,url
 星卫娱乐,url
 卫视卡式,url
-CHC家庭影院,url
 CHC高清电影,url
 淘剧场,url
 淘娱乐,url
@@ -1544,7 +1571,6 @@ IPTV经典电影,url
 咪咕直播43,url
 咪咕直播44,url
 咪咕直播45,url
-CCTV-5+,url
 体育赛事,url
 劲爆体育,url
 超级体育,url
@@ -1575,10 +1601,10 @@ JJ斗地主,url
 中录动漫,url
 宝宝动画,url
 CN卡通,url
-优漫卡通,url
 金鹰卡通,url
 睛彩少儿,url
 黑莓动画,url
+浙江少儿,url
 河北少儿科教,url
 火影忍者,url
 海绵宝宝,url
